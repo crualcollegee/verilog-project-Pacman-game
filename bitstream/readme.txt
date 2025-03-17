@@ -1,0 +1,1 @@
+In order to facilitate your faster implementation of the project board, we will provide the existing bitstream. Of course, if you want to build your own project, you can also use the bitstream you generate

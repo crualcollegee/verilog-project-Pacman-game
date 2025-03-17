@@ -1,0 +1,24 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x0",
+      "device": "xc7k160tffg676-2L",
+      "gen_directory": "../../../../aae.gen/sources_1/bd/design_1",
+      "name": "design_1",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2021.1"
+    },
+    "design_tree": {
+      "blk_mem_gen_0": ""
+    },
+    "components": {
+      "blk_mem_gen_0": {
+        "vlnv": "xilinx.com:ip:blk_mem_gen:8.4",
+        "xci_name": "design_1_blk_mem_gen_0_0",
+        "xci_path": "ip\\design_1_blk_mem_gen_0_0\\design_1_blk_mem_gen_0_0.xci",
+        "inst_hier_path": "blk_mem_gen_0"
+      }
+    }
+  }
+}
